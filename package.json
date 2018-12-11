@@ -1,0 +1,11 @@
+{
+  "name": "repositorydiprova",
+  "version": "1.0.0",
+  "description": "testdizetto",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "marcogimbo",
+  "license": "MIT"
+}
